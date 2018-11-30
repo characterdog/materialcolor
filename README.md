@@ -1,5 +1,5 @@
 # Material Color Palette Library
-<a href="https://travis-ci.com/characterdog/materialcolor/"><img src="https://api.travis-ci.com/characterdog/materialcolor.svg?branch=master"></a> <a title="Crowdin" target="_blank" href="https://crowdin.com/project/characterdog-bmi-calculator"><img src="https://d322cqt584bo4o.cloudfront.net/characterdog-bmi-calculator/localized.svg"></a>
+<a href="https://travis-ci.com/characterdog/materialcolor/"><img src="https://api.travis-ci.com/characterdog/materialcolor.svg?branch=master"></a> <a title="Crowdin" target="_blank" href="https://crowdin.com/project/materialcolor"><img src="https://d322cqt584bo4o.cloudfront.net/materialcolor/localized.svg"></a>
 
 Use material colors in your project with ease: Instead of manually looking up the hexcodes, use `@color/material_color_orange_500`.
 
@@ -12,7 +12,7 @@ Use material colors in your project with ease: Instead of manually looking up th
 
 ### Translations
 
-Translations are managed via [Crowdin](https://crowdin.com/project/characterdog-bmi-calculator). Translations need to be approved before I can merge them. Please do not hesitate to contact me via Crowdin or GitHub issue if you want to become proofreader or if you want to request a language.
+Translations are managed via [Crowdin](https://crowdin.com/project/materialcolor). Translations need to be approved before I can merge them. Please do not hesitate to contact me via Crowdin or GitHub issue if you want to become proofreader or if you want to request a language.
 
 ## License
 

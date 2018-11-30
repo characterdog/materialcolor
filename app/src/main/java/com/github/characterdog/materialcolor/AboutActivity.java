@@ -101,7 +101,7 @@ public class AboutActivity extends AppCompatActivity {
                     .setOnClickAction(new MaterialAboutItemOnClickAction() {
                         @Override
                         public void onClick() {
-                            Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://crowdin.com/project/lorem-ipsum-generator")); //todo
+                            Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://crowdin.com/project/materialcolor"));
                             startActivity(intent);
                         }
                     })
