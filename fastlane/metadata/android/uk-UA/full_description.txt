@@ -1,6 +1,6 @@
 This is a demo app of the Material Color Palette Library: https://github.com/characterdog/materialcolor
 
-Why use this app:
+Чому потрібно користуватися цим додатком:
 • Copy hexcode to clipboard by tapping on a card
-• Material Design
-• No ads or tracking
+• Матеріальний дизайн
+• Немає реклами і трекінгу
