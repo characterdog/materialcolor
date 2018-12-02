@@ -1,0 +1,6 @@
+Dies ist eine Demo-App der Material Farbpalettenbibliothek: https://github.com/characterdog/materialcolor
+
+Warum diese App nutzen:
+• Kopiere Hexcode in Zwischenablage durch tippen auf eine Karte
+• Material Design
+• Keine Werbung oder Tracking
