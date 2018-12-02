@@ -1,12 +1,11 @@
 # Material Color Palette Library
-<a href="https://travis-ci.com/characterdog/materialcolor/"><img src="https://api.travis-ci.com/characterdog/materialcolor.svg?branch=master"></a> <a title="Crowdin" target="_blank" href="https://crowdin.com/project/materialcolor"><img src="https://d322cqt584bo4o.cloudfront.net/materialcolor/localized.svg"></a>
+[![Release](https://jitpack.io/v/characterdog/materialcolor.svg)](https://jitpack.io/#characterdog/materialcolor)<a href="https://travis-ci.com/characterdog/materialcolor/"><img src="https://api.travis-ci.com/characterdog/materialcolor.svg?branch=master"></a> <a title="Crowdin" target="_blank" href="https://crowdin.com/project/materialcolor"><img src="https://d322cqt584bo4o.cloudfront.net/materialcolor/localized.svg"></a>
 
 Use material colors in your project with ease: Instead of manually looking up the hexcodes, use `@color/material_color_orange_500`.
 
 ## Installation
 
-Add this to your project's gradle file:
-
+__Step 1.__ Add the JitPack repository to your build file. Add it in your root build.gradle at the end of repositories:
 ```gradle
 allprojects {
     repositories {
@@ -14,7 +13,7 @@ allprojects {
     }
 }
 ```
-
+__Step 2.__ Add the dependency (use the version number from the JitPack badge above):
 ```gradle
 dependencies {
     compile 'com.github.characterdog:materialcolor:1.0'
