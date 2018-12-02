@@ -3,6 +3,24 @@
 
 Use material colors in your project with ease: Instead of manually looking up the hexcodes, use `@color/material_color_orange_500`.
 
+## Installation
+
+Add this to your project's gradle file:
+
+```gradle
+allprojects {
+    repositories {
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+
+```gradle
+dependencies {
+    compile 'com.github.characterdog:materialcolor:1.0'
+}
+```
+
 ## Demo app
 
 [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/app/com.github.characterdog.materialcolor)
