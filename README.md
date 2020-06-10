@@ -1,3 +1,5 @@
+# This project currently receives little to no maintenance by myself. Feel free to fork it!
+
 # Material Color Palette Library
 [![Release](https://jitpack.io/v/characterdog/materialcolor.svg)](https://jitpack.io/#characterdog/materialcolor)<a href="https://travis-ci.com/characterdog/materialcolor/"><img src="https://api.travis-ci.com/characterdog/materialcolor.svg?branch=master"></a> <a title="Crowdin" target="_blank" href="https://crowdin.com/project/materialcolor"><img src="https://d322cqt584bo4o.cloudfront.net/materialcolor/localized.svg"></a>
 
